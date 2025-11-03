@@ -81,7 +81,7 @@ ollama run llama3
 
 ### 3️⃣ Run the Application
 ```bash
-streamlit run global_news_app.py
+streamlit run streamlit.py
 ```
 
 ---
